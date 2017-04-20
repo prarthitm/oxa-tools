@@ -75,7 +75,7 @@
             "value": 1
         },
         "oxaToolsGithubAccountName": {
-            "value": "Microsoft"
+            "value": "prarthitm"
         },
         "oxaToolsGithubProjectName": {
             "value": "oxa-tools"
@@ -93,10 +93,10 @@
             "value": "oxa/master.fic"
         },
         "edxPlatformGithubAccountName": {
-            "value": "microsoft"
+            "value": "prarthitm"
         },
         "edxPlatformGithubProjectName": {
-            "value": "edx-platform"
+            "value": "edxplatform"
         },
         "edxPlatformGithubBranch": {
             "value": "oxa/master.fic"
@@ -251,10 +251,10 @@
             "value": false
         },
         "aadLoginButtonText": {
-            "value": ""
+            "value": "Login with CloudThat Account"
         },
         "baseDomain": {
-            "value": "{CLUSTERNAME}-tm.trafficmanager.net"
+            "value": "mslearning.cloudthat.com"
         },
         "domainSeparator": {
             "value": "-"

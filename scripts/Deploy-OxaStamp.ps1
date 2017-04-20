@@ -113,12 +113,12 @@ Param(
         [Parameter(Mandatory=$false)][string]$SmtpAuthenticationUser="",
         [Parameter(Mandatory=$false)][string]$SmtpAuthenticationUserPassword="",
 
-        [Parameter(Mandatory=$false)][string]$ServiceAccountPassword="5QFrMCIKJaVazBWisd0fMJR",
+        [Parameter(Mandatory=$false)][string]$ServiceAccountPassword="Ms@Cl0udTh@t2o17",
 
-        [Parameter(Mandatory=$false)][string]$PlatformName="Contoso Learning",
-        [Parameter(Mandatory=$false)][string]$PlatformEmailAddress="",
+        [Parameter(Mandatory=$false)][string]$PlatformName="Microsoft Learning at CloudThat",
+        [Parameter(Mandatory=$false)][string]$PlatformEmailAddress="support-o365@cloudthat.in",
 
-        [Parameter(Mandatory=$false)][string]$EdxAppSuperUserName="edxappadmin",
+        [Parameter(Mandatory=$false)][string]$EdxAppSuperUserName="ctedxappadmin",
         [Parameter(Mandatory=$false)][string]$EdxAppSuperUserPassword="",
         [Parameter(Mandatory=$false)][string]$EdxAppSuperUserEmail="",
 

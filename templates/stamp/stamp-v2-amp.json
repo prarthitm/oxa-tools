@@ -587,10 +587,10 @@
             "clusterVirtualMachineScaleSetSettingsName": "[variables('vmssAutoScaleSettingsName')]",
             "jumpBoxAvailabilitySetFaultDomainCount": "1",
             "jumpBoxNodeCount": "1",
-            "mongoDataNodesAvailabilitySetFaultDomainCount": "3",
-            "mongoDataNodeCount": 3,
-            "mysqlDataNodesAvailabilitySetFaultDomainCount": "3",
-            "mysqlDataNodeCount": 3,
+            "mongoDataNodesAvailabilitySetFaultDomainCount": "2",
+            "mongoDataNodeCount": 2,
+            "mysqlDataNodesAvailabilitySetFaultDomainCount": "2",
+            "mysqlDataNodeCount": 2,
 
             "trafficManagerSettings": {
                 "dnsTtlSeconds": 30,
